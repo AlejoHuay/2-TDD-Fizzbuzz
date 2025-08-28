@@ -8,4 +8,17 @@ function convertirFizzBuzz(n){
     }
     return n + "";
 }
-export default convertirFizzBuzz;
+
+function generarCadenaFizzBuzz(n){
+    let i=1;
+    let cadena="";
+    for(i; i<= n; i++){
+        cadena += convertirFizzBuzz(i);
+        if(i!=n){
+            cadena +=" ";
+        }
+    }
+    return cadena;
+}
+
+export {convertirFizzBuzz, generarCadenaFizzBuzz};

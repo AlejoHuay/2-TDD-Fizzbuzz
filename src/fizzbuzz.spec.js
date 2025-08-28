@@ -1,4 +1,4 @@
-import convertirFizzBuzz from "./fizzbuzz";
+import {convertirFizzBuzz, generarCadenaFizzBuzz} from "./fizzbuzz";
 
 describe("Fizzbuzz", () => {
   
@@ -29,5 +29,9 @@ describe("Fizzbuzz", () => {
   
   it("deberia convertir cualquier numero multiplo de 3 y 5 a FizzBuzz", () => {
     expect(convertirFizzBuzz(15)).toEqual("FizzBuzz");
+  });
+
+  it("deberia genrar toda la secuencia FizzBuzz hasta un numero cualquiera dado", () => {
+    expect(generarCadenaFizzBuzz(4)).toEqual("1 2 Fizz 4");
   });
 });

@@ -114,12 +114,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "0a8693c9f6693e76ca235dbde2c4f8e269af0b83",
     "author": "Alejandro Alvarez",
     "commit": {
       "date": "2025-08-28T01:12:12.000Z",
       "message": "feat: convierto cualquier numero multiplo de 3 y 5 a FizzBuzz",
-      "url": "https://github.com/AlejoHuay/2-TDD-Fizzbuzz/commit/HEAD"
+      "url": "https://github.com/AlejoHuay/2-TDD-Fizzbuzz/commit/0a8693c9f6693e76ca235dbde2c4f8e269af0b83"
     },
     "stats": {
       "total": 13,
@@ -129,6 +129,25 @@
     },
     "coverage": 100,
     "test_count": 8,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Alejandro Alvarez",
+    "commit": {
+      "date": "2025-08-28T01:24:59.000Z",
+      "message": "feat: genero toda la secuencia FizzBuzz hasta un numero cualquiera dado",
+      "url": "https://github.com/AlejoHuay/2-TDD-Fizzbuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 21,
+      "additions": 19,
+      "deletions": 2,
+      "date": "2025-08-28"
+    },
+    "coverage": 100,
+    "test_count": 9,
     "failed_tests": 0,
     "conclusion": "success"
   }
