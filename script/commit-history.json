@@ -95,12 +95,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "80a2fdc663c488f3ebd8657c677affa1d764e8be",
     "author": "Alejandro Alvarez",
     "commit": {
       "date": "2025-08-28T01:07:45.000Z",
       "message": "feat: convierto cualquier numero multiplo de 5 a Buzz",
-      "url": "https://github.com/AlejoHuay/2-TDD-Fizzbuzz/commit/HEAD"
+      "url": "https://github.com/AlejoHuay/2-TDD-Fizzbuzz/commit/80a2fdc663c488f3ebd8657c677affa1d764e8be"
     },
     "stats": {
       "total": 10,
@@ -110,6 +110,25 @@
     },
     "coverage": 100,
     "test_count": 7,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Alejandro Alvarez",
+    "commit": {
+      "date": "2025-08-28T01:12:12.000Z",
+      "message": "feat: convierto cualquier numero multiplo de 3 y 5 a FizzBuzz",
+      "url": "https://github.com/AlejoHuay/2-TDD-Fizzbuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 13,
+      "additions": 9,
+      "deletions": 4,
+      "date": "2025-08-28"
+    },
+    "coverage": 100,
+    "test_count": 8,
     "failed_tests": 0,
     "conclusion": "success"
   }

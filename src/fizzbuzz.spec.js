@@ -23,8 +23,11 @@ describe("Fizzbuzz", () => {
     expect(convertirFizzBuzz(5)).toEqual("Buzz");
   });
 
-it("deberia convertir cualquier numero multiplo de 5 a Buzz", () => {
-    expect(convertirFizzBuzz(15)).toEqual("Buzz");
+  it("deberia convertir cualquier numero multiplo de 5 a Buzz", () => {
+    expect(convertirFizzBuzz(10)).toEqual("Buzz");
   });
   
+  it("deberia convertir cualquier numero multiplo de 3 y 5 a FizzBuzz", () => {
+    expect(convertirFizzBuzz(15)).toEqual("FizzBuzz");
+  });
 });
