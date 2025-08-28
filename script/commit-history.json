@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Alejandro Alvarez",
+    "commit": {
+      "date": "2025-08-28T00:45:32.000Z",
+      "message": "feat: convierto un numero que no es multiplo de 3 ni 5",
+      "url": "https://github.com/AlejoHuay/2-TDD-Fizzbuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 4195,
+      "additions": 1954,
+      "deletions": 2241,
+      "date": "2025-08-28"
+    },
+    "coverage": 75,
+    "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
