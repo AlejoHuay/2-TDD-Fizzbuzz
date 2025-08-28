@@ -7,13 +7,13 @@
     - Dado un numero por usr: generar toda la secuencia FizzBuzz hasta ese numero : 
     Ejm: 4 -> "1 2 Fizz 4'
 
-    Opcion 2: Outside in
+Opcion 2: Outside in
     - generarCadenaFizzBuzz(0). => "" =====> return ""
     - generarCadenaFizzBuzz(1). => "1". =====> if return "" else "1"
     - generarCadenaFizzBuzz(2). => "1 2". =====> for " "
     - generarCadenaFizzBuzz(3). => "1 2 Fizz"
-        - Num multiplo de 3. ejm 3 -> "Fizz"
+        - Num multiplo de 3. ejm 3 -> "Fizz" (completed)
     - generarCadenaFizzBuzz(5) => "1 2 Fizz 4 Buzz"
-        - Num multiplo de 5. ejem 5 -> Buzz
+        - Num multiplo de 5. ejem 5 -> Buzz (completed)
     - generarCadenaFizzBuzz(15) => "1 2 Fizz 4 Buzz ... FizzBuzz"
-        - Num multiplo de 3 y 5. ejem 15 -> FizzBuzz 
+        - Num multiplo de 3 y 5. ejem 15 -> FizzBuzz (completed) 

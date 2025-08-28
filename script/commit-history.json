@@ -171,17 +171,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "81c4a2ab0a2ffd58a5d96aad7845073017a8890b",
     "author": "Alejandro Alvarez",
     "commit": {
       "date": "2025-08-28T13:10:39.000Z",
       "message": "agrego opcion 2 a listadecasosdeprueba.txt",
-      "url": "https://github.com/AlejoHuay/2-TDD-Fizzbuzz/commit/HEAD"
+      "url": "https://github.com/AlejoHuay/2-TDD-Fizzbuzz/commit/81c4a2ab0a2ffd58a5d96aad7845073017a8890b"
     },
     "stats": {
       "total": 15,
       "additions": 13,
       "deletions": 2,
+      "date": "2025-08-28"
+    },
+    "coverage": 100,
+    "test_count": 9,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Alejandro Alvarez",
+    "commit": {
+      "date": "2025-08-28T23:02:51.000Z",
+      "message": "Doc: Completo listadecasosdeprueba.txt",
+      "url": "https://github.com/AlejoHuay/2-TDD-Fizzbuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 4,
+      "deletions": 4,
       "date": "2025-08-28"
     },
     "coverage": 100,
